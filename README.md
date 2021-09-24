@@ -8,7 +8,7 @@
 2. 명언문구와 저자명이 표시됨
 
 ## 주요 기술
-1.HTML, CSS, Javascrip/jQuery
-2.fontawesome
+1. HTML, CSS, Javascrip/jQuery
+2. fontawesome
 
 ## 데모사이트: https://csslick.github.io/famouse-saying-app/
